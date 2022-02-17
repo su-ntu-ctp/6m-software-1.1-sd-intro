@@ -21,7 +21,7 @@ Learners will understand:
 - What makes a great developer.
 - What is a programming language and why do we need them.
 - The difference between compiler, transpiler and interpeter.
-- What software development environment is.
+- What is a software development environment.
 
 Learners will be able to:
 - Install all the necessary software development tools needed for this program: 
