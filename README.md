@@ -8,6 +8,19 @@ Learners are expected to use OS versions Windows 10 or MacOS (BigSur) and above.
 
 Learners are expected to use Google Chrome for this program. All debugging and troubleshooting efforts will be done on Chrome's Developer Tool. If learners faced resource issue on their local machine, they can opt for firefox as an alternative. 
 
+## Module 1 Brief
+
+In module 1, learners will be going through the following topics during lesson:
+- Software Development Environment
+- Code Version Control with GIT
+- Software Testing Methodologies
+- Agile SCRUM
+
+Learners will be learning the following topics in the self studies materials and assignment:
+- HTML
+- CSS
+- JavaScript
+
 ## Dependencies
 
 Refer to the following markdown file for the respective sections of the class:
