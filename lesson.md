@@ -6,7 +6,7 @@ This lesson contains a lot of installations. Learners should expect hiccups and 
 
 ## Self studies check-in
 
-1. What is programming languages for? Why do we have to use them?
+1. What are programming languages? Why do we have to use them?
 2. What is the difference between compiler, transpiler and interpreter?
 3. What is a software development environment? (bridging to lesson)
 
@@ -66,18 +66,9 @@ nvm alias default # ensure v16.15.0 is printed
 ---
 ## Part 4 - Installing & Basic GIT Commands
 
-Refer to a step by step walk through for installation and basic use [here](./assets/git-guide.pdf).
+Upon successful installation, hitting `git --version` on Terminal should display the version number.
 
-> Note: All learners should write their git commands in bash shell through the VS Code Terminal. This is to ensure consistency in the lesson.
-
-The PDF guide covers:
-- forking from github.com
-- `git clone` command
-- `git add` command
-- `git commit` command
-- `git push` command
-
-More about git branching in the following lesson.
+> Learners will go through the full lesson on GIT in the next lesson.
 
 ---
 
