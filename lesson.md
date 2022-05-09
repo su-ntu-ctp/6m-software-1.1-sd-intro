@@ -76,6 +76,15 @@ Refer to a step by step walk through for installation and basic use [here](./ass
 
 > Note: All learners should write their git commands in bash shell through the VS Code Terminal. This is to ensure consistency in the lesson.
 
+The PDF guide covers:
+- forking from github.com
+- `git clone` command
+- `git add` command
+- `git commit` command
+- `git push` command
+
+More about git branching in the following lesson.
+
 ---
 
 ## Part 5 - Chrome Developer's Tool
