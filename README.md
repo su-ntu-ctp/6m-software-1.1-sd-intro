@@ -53,19 +53,17 @@ Learners will be able to:
 
 |Duration|What|How or Why|
 |--------|-----|-------|
-|- 5mins |Start zoom session|So that students can join early and start class on time|
-|15 mins|Self studies check-in|Encourage students to ask questions in regards to their self studies material.|
-|10 mins|I DO Part 1|Instructor demonstrates...|
-|10 mins|WE DO Part 1|Learners practice...|
-|10 mins|I DO Part 2|Instructor demonstrates...|
-|10 mins|I DO Part 2|Learners practice...|
-|5 mins| Break||
-|||**1 HR 00 MIN**|
-|10 mins|I DO Part 3| Instructor demonstrates...|
-|10 mins|WE DO part 3| Learners practice...|
-|10 mins|Assignment briefing|
-|||**1 HR 30 MIN**|
-|40 mins|Learners self attempt on assignments|
-|20 mins|Instructors walk through at least 1 question of the assignments|
-|||**END CLASS 2 HR 30 MIN**|
+|- 5mins |Start zoom session|So that students can join early and start class on time.|
+|10 mins|Self studies check-in|Warm up students with self studies check-in and bridge in to lesson.|
+|30 mins|Conceptual Knowledge| This period is used to support self studies check-in and expect more explanations.|
+|20 mins|Part 1 - Install Power Bash for Windows| Affecting only those who uses Windows OS. MacOS users to explore cheat sheet.|
+||**1 HR MARK**|
+|5 mins|Break|Break|
+|20 mins|Part 2 - Install NVM & Node| All learners to install latest LTS.|
+|30 mins|Part 3 - Install VS Code| Along with three other extensions.|
+|5 mins|Break||
+||**2 HR MARK**|
+|30 mins|Part 4 - GIT| Follows a documentation on how to fork, clone and push repositories.|
+|30 mins|Part 5 - Chrome Developer's T0ol|Guide learners to navgiate around the console, html and css tabs.|
+||**END CLASS 3 HR MARK**|
 
