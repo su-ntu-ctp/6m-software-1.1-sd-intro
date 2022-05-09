@@ -62,7 +62,6 @@ nvm alias default # ensure v16.15.0 is printed
         - Use [index.js](./src/index.js) as example by opening the file.
         - Right-click the code and choose "Format Document with"
         - Select Prettier
-
 ---
 ## Part 4 - Installing & Basic GIT Commands
 
@@ -70,6 +69,12 @@ Upon successful installation, hitting `git --version` on Terminal should display
 
 > Learners will go through the full lesson on GIT in the next lesson.
 
+It is good for learners to decide on a directory in their laptops where they would clone all repositories into. 
+
+Suggestion:
+
+MacOS: `~/sctp`
+Windows: `C:\Users\<your username>\sctp`
 ---
 
 ## Part 5 - Chrome Developer's Tool
