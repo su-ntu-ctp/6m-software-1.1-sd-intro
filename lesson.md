@@ -1,14 +1,8 @@
 ## Brief
 
-### How to use the lesson sample code
+### Lesson Overview
 
-There are two folders prepared for the lesson. 
-- [Instructor's folder](./lesson-sample-code/instructor-demo-code)
-- [Learners' folder](./lesson-sample-code/learners-practice-code)
-
-Instructor to use the code provided for demonstration during the I DO segment. Learners will use the java file provided in the respective folder for practice during the WE DO segment.
-
-### Any other announcements to instructors or learners
+This lesson contains a lot of installations. Learners should expect hiccups and some waiting time while instructor is troubleshooting issues for other learners.
 
 ## Self studies check-in
 
