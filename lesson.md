@@ -82,3 +82,11 @@ Windows: `C:\Users\<your username>\sctp`
 Walk learners through the `elements` and `console` tab.
 
 <img src="./assets/dev-tools.png" />
+
+## Part 6 - Self studies briefing
+
+There are self studies materials in every lesson's repository. Learners could get access to them either via [NTU BlackBoard](https://loginfs.ntu.edu.sg/adfs/ls/) or follow this [Google Sheet](https://docs.google.com/spreadsheets/d/1wtLIV2VgDlPgvVWU-ZqdCTWGERHoVXZNc6gHq5XOKk0/edit#gid=0)
+
+Navigate to the file `studies.md` to view self studies material.
+
+Instructor to help learners navigate next lesson's self studies materials.

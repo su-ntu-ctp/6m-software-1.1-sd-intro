@@ -63,7 +63,8 @@ Learners will be able to:
 |30 mins|Part 3 - Install VS Code| Along with three other extensions.|
 |5 mins|Break||
 ||**2 HR MARK**|
-|30 mins|Part 4 - GIT| Follows a documentation on how to fork, clone and push repositories.|
-|30 mins|Part 5 - Chrome Developer's T0ol|Guide learners to navgiate around the console, html and css tabs.|
+|20 mins|Part 4 - Install GIT| Only installation is needed.|
+|20 mins|Part 5 - Chrome Developer's T0ol|Guide learners to navgiate around the console, html and css tabs.|
+|20 mins|Part 6 - Self studies briefing|
 ||**END CLASS 3 HR MARK**|
 
