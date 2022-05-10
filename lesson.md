@@ -79,6 +79,10 @@ Windows: `C:\Users\<your username>\sctp`
 
 ## Part 5 - Chrome Developer's Tool
 
+The Chrome developer's tool can be accessed by doing either of the following:
+1. Right-click on the screen and choose "Inspect"
+2. Pressing F12 or Ctrl+Shift+I in the keyboard
+
 Walk learners through the `elements` and `console` tab.
 
 <img src="./assets/dev-tools.png" />
