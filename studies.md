@@ -4,15 +4,25 @@
 
 - [Programming Languages](https://www.webopedia.com/definitions/programming-language/)
 - [What makes a good software engineer, by veteran Erik Dietrich](https://makemeaprogrammer.com/what-makes-a-good-software-engineer/)
+- What is Bash Shell? [Link](https://www.howtogeek.com/726559/what-is-the-bash-shell-and-why-is-it-so-important-to-linux/)
 
+### Windows (WSL)
+
+WSL stands for Windows Subsytem for Linux which allows Windows 10/11 users to install a Linux distribution (e.g. Ubuntu, OpenSUSE, Debian, etc). This enables the use of Linux tools such as Bash shell, completely integrated with Windows tools such as Windows File Explorer, Visual Studio Code, Edge and Chrome browsers. 
+
+WSL2 is the latest version of WSL that ships with Windows 10 version 2005 and higher (Build 19041 and above) or Windows 11
+
+- Install WSL2 (including Bash shell) on Windows 10/11 [link](https://docs.microsoft.com/en-us/windows/wsl/install) 
+
+- To access your Linux drive from Windows (e.g. File Explorer), use `\\wsl$\Ubuntu\home`
+
+- Windows Terminal [link](https://docs.microsoft.com/en-us/windows/terminal/)
 
 ### Installation Links for Lesson
 
-- Step by step to install bash shell in windows. [Link](https://hackernoon.com/how-to-install-bash-on-windows-10-lqb73yj3)
-    - What is Bash Shell? [Link](https://www.howtogeek.com/726559/what-is-the-bash-shell-and-why-is-it-so-important-to-linux/)
-- NVM for MacOS / Linux. [Link](https://github.com/nvm-sh/nvm)
-- NVM for Windows. [Link](https://github.com/coreybutler/nvm-windows)
+- NVM for MacOS / Linux / WSL. [Link](https://github.com/nvm-sh/nvm)
+- NVM for Windows (no WSL). [Link](https://github.com/coreybutler/nvm-windows)
 - GIT - Code Version Control [Link](https://git-scm.com/downloads)
-- VS Code. [Link](https://code.visualstudio.com/)
+- VS Code. [Link](https://code.visualstudio.com/)  WSL users: Install VSC for Windows 
 
 > Dear Learners, please ensure your Laptop is following the requirements stated in the first section (Operating Systems Requirement for this Program) or you may face edge case obstacles that can be difficult to troubleshoot within the lesson.
