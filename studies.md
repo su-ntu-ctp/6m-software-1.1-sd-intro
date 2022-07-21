@@ -13,9 +13,7 @@ WSL stands for Windows Subsytem for Linux which allows Windows 10/11 users to in
 WSL2 is the latest version of WSL that ships with Windows 10 version 2005 and higher (Build 19041 and above) or Windows 11
 
 - Install WSL2 (including Bash shell) on Windows 10/11 [link](https://docs.microsoft.com/en-us/windows/wsl/install) 
-
 - To access your Linux drive from Windows (e.g. File Explorer), use `\\wsl$\Ubuntu\home`
-
 - Windows Terminal [link](https://docs.microsoft.com/en-us/windows/terminal/)
 
 ### Installation Links for Lesson
