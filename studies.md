@@ -23,6 +23,6 @@ WSL2 is the latest version of WSL that ships with Windows 10 version 2005 and hi
 - NVM for MacOS / Linux / WSL. [Link](https://github.com/nvm-sh/nvm)
 - NVM for Windows (no WSL). [Link](https://github.com/coreybutler/nvm-windows)
 - GIT - Code Version Control [Link](https://git-scm.com/downloads)
-- VS Code. [Link](https://code.visualstudio.com/)  WSL users: Install VSC for Windows 
+- VS Code. [Link](https://code.visualstudio.com/)  
 
 > Dear Learners, please ensure your Laptop is following the requirements stated in the first section (Operating Systems Requirement for this Program) or you may face edge case obstacles that can be difficult to troubleshoot within the lesson.
