@@ -3,8 +3,8 @@
 ### Readings
 
 - [Programming Languages](https://www.webopedia.com/definitions/programming-language/)
-- [What makes a good software engineer, by veteran Erik Dietrich](https://makemeaprogrammer.com/what-makes-a-good-software-engineer/)
-- What is Bash Shell? [Link](https://www.howtogeek.com/726559/what-is-the-bash-shell-and-why-is-it-so-important-to-linux/)
+- [What makes a good software engineer] by veteran Erik Dietrich(https://makemeaprogrammer.com/what-makes-a-good-software-engineer/)
+- [What is Bash Shell?](https://www.howtogeek.com/726559/what-is-the-bash-shell-and-why-is-it-so-important-to-linux/)
 
 ### Windows (WSL)
 
@@ -12,15 +12,15 @@ WSL stands for Windows Subsytem for Linux which allows Windows 10/11 users to in
 
 WSL2 is the latest version of WSL that ships with Windows 10 version 2005 and higher (Build 19041 and above) or Windows 11
 
-- Install WSL2 (including Bash shell) on Windows 10/11 [link](https://docs.microsoft.com/en-us/windows/wsl/install) 
+- Install WSL2 (including Bash shell) on Windows 10/11 [(link)](https://docs.microsoft.com/en-us/windows/wsl/install) 
 - To access your Linux drive from Windows (e.g. File Explorer), use `\\wsl$\Ubuntu\home`
-- Windows Terminal [link](https://docs.microsoft.com/en-us/windows/terminal/)
+- Windows Terminal [(link)](https://docs.microsoft.com/en-us/windows/terminal/)
 
 ### Installation Links for Lesson
 
-- NVM for MacOS / Linux / WSL. [Link](https://github.com/nvm-sh/nvm)
-- NVM for Windows (no WSL). [Link](https://github.com/coreybutler/nvm-windows)
-- GIT - Code Version Control [Link](https://git-scm.com/downloads)
-- VS Code. [Link](https://code.visualstudio.com/)  
+- [NVM for MacOS / Linux / WSL](https://github.com/nvm-sh/nvm)
+- [NVM for Windows (no WSL)](https://github.com/coreybutler/nvm-windows)
+- [GIT - Code Version Control](https://git-scm.com/downloads)
+- [Visual Studio Code](https://code.visualstudio.com/)  
 
 > Dear Learners, please ensure your Laptop is following the requirements stated in the first section (Operating Systems Requirement for this Program) or you may face edge case obstacles that can be difficult to troubleshoot within the lesson.
