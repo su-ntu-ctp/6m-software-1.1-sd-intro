@@ -3,7 +3,7 @@
 ### Readings
 
 - [Programming Languages](https://www.webopedia.com/definitions/programming-language/)
-- [What makes a good software engineer] by veteran Erik Dietrich(https://makemeaprogrammer.com/what-makes-a-good-software-engineer/)
+- [What makes a good software engineer](https://makemeaprogrammer.com/what-makes-a-good-software-engineer/) by veteran Erik Dietrich
 - [What is Bash Shell?](https://www.howtogeek.com/726559/what-is-the-bash-shell-and-why-is-it-so-important-to-linux/)
 
 ### Windows (WSL)
