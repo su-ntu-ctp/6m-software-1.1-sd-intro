@@ -57,6 +57,6 @@
 - D: None of the above
 ---
 
-### Q10: Each programming language has its unique syntax
+### Q10: Each programming language has some features that are common to each other
 - A: True
 - B: False
