@@ -44,10 +44,40 @@ nvm alias default # ensure v16.15.0 is printed
 
 ---
 
-## Part 3 - VS Code
+## Part 4 - Installing & Basic GIT Commands
+
+Upon successful installation, hitting `git --version` on Terminal should display the version number.
+
+> Learners will go through the full lesson on GIT in the next lesson.
+
+It is good for learners to decide on a directory in their laptops where they would clone all repositories into. 
+
+Suggestion:
+
+MacOS: `~/sctp`
+Windows: `C:\Users\<your username>\sctp`
+
+---
+
+## Part 4 - VS Code
 
 - Install VS Code
-- Install Extensions
+- Git Clone
+    - To clone the current lesson repository, run the following command on Terminal:
+    ```sh
+    git clone https://github.com/su-ntu-ctp/6m-software-1.1-sd-intro
+    ```
+    - To launch the cloned folder on VS Code, run the following commands on Terminal (exclude # and the words behind. Those are comments): 
+    ```sh
+    cd 6m-software-1.1-sd-intro
+    code .
+    ```
+    - With explanation in comments:
+    ```sh
+    cd 6m-software-1.1-sd-intro # change directory to the specified folder
+    code . # launch current directory on code
+    ```
+- Install Extensions on VS Code
     - Live Share (pair programming - good for seeking help from instructors)
         - Instructor create a read-only link and share with students.
         - Be sure to show students there are read-only and write permissible links.
@@ -62,19 +92,6 @@ nvm alias default # ensure v16.15.0 is printed
         - Use [index.js](./src/index.js) as example by opening the file.
         - Right-click the code and choose "Format Document with"
         - Select Prettier
----
-## Part 4 - Installing & Basic GIT Commands
-
-Upon successful installation, hitting `git --version` on Terminal should display the version number.
-
-> Learners will go through the full lesson on GIT in the next lesson.
-
-It is good for learners to decide on a directory in their laptops where they would clone all repositories into. 
-
-Suggestion:
-
-MacOS: `~/sctp`
-Windows: `C:\Users\<your username>\sctp`
 ---
 
 ## Part 5 - Chrome Developer's Tool
