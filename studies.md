@@ -23,4 +23,9 @@ WSL2 is the latest version of WSL that ships with Windows 10 version 2005 and hi
 - [GIT - Code Version Control](https://git-scm.com/downloads)
 - [Visual Studio Code](https://code.visualstudio.com/)  
 
+### Note for WSL users
+
+For Windows WSL users, to get the latest version of Git, you must update your PPA (Personal Package Archive) manually. Follow the instructions here:
+https://www.bytesized.xyz/how-to-update-git-in-ubuntu-windows-subsystem-for-linux/
+
 > Dear Learners, please ensure your Laptop is following the requirements stated in the first section (Operating Systems Requirement for this Program) or you may face edge case obstacles that can be difficult to troubleshoot within the lesson.
