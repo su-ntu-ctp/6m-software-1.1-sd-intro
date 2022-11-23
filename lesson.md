@@ -44,7 +44,7 @@ nvm alias default # ensure v16.15.0 is printed
 
 ---
 
-## Part 4 - Installing & Basic GIT Commands
+## Part 3 - Installing & Basic GIT Commands
 
 Upon successful installation, hitting `git --version` on Terminal should display the version number.
 
