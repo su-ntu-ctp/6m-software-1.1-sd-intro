@@ -39,7 +39,7 @@ Example:
 ```sh
 nvm ls-remote # list all versions
 nvm install v16.15.0 # install latest LTS
-nvm alias default # ensure v16.15.0 is printed
+nvm alias default # ensure v18.12.0 is printed
 ```
 
 ---
