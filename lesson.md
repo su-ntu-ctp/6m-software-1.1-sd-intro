@@ -38,7 +38,7 @@ Now, let Windows Learners install their Bash Shell for Windows and MacOS Learner
 Example:
 ```sh
 nvm ls-remote # list all versions
-nvm install v16.15.0 # install latest LTS
+nvm install v18.12.0 # install latest LTS
 nvm alias default # ensure v18.12.0 is printed
 ```
 
