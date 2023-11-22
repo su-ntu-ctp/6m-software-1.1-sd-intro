@@ -28,6 +28,8 @@ ls # list all files in current directory
 
 Now, let Windows Learners install their Bash Shell for Windows and MacOS Learners to play around with the cheat sheet.
 
+*Note: there is no **touch** command in Windows powershell. Windows users can try using the **ni (new item)** command to make files.*
+
 ---
 
 ## Part 2 - Install NVM & Latest Node LTS
