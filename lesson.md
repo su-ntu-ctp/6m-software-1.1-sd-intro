@@ -64,10 +64,11 @@ Windows: `C:\Users\<your username>\sctp`
 ## Part 4 - VS Code
 
 - Install VS Code
+- Forking the repo
 - Git Clone
     - To clone the current lesson repository, run the following command on Terminal:
     ```sh
-    git clone https://github.com/su-ntu-ctp/6m-software-1.1-sd-intro
+    git clone https://github.com/<your-github-account>/6m-software-1.1-sd-intro
     ```
     - To launch the cloned folder on VS Code, run the following commands on Terminal (exclude # and the words behind. Those are comments): 
     ```sh
