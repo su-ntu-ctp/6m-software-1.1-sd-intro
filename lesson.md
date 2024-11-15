@@ -7,7 +7,7 @@ This lesson contains a lot of installations. Learners should expect hiccups and 
 ## Self studies check-in
 
 1. What are programming languages? Why do we have to use them?
-2. What is the difference between compiler, transpiler and interpreter?
+2. What is the difference between compiler, and interpreter?
 3. What is a software development environment? (bridging to lesson)
 
 ---
