@@ -95,9 +95,9 @@ VSCode is one of the most popular code editors in the world. It offers a robust 
         - Select Prettier
 - Forking the repo (copying a repo)
     - Go to Github, and fork this [directory](https://github.com/su-ntu-ctp/6m-software-1.1-sd-intro) by clicking on the "Fork" button
-    <img src="./assets/Forking_Repo.PNG" />
+    <img src="./assets/Forking_Repo.png" />
     - Make sure you select your Github account as the owner of the forked repo
-    <img src="./assets/Forking_Repo2.PNG" />
+    <img src="./assets/Forking_Repo2.png" />
 - Git clone
     - To clone the current lesson repository, run the following command on Terminal:
     ```sh
