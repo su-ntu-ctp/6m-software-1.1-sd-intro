@@ -103,8 +103,9 @@ Windows: `C:\Users\<your username>\sctp`
 - Forking the repo (copying a repo)
     - Go to Github, and fork this [directory](https://github.com/su-ntu-ctp/6m-software-1.1-sd-intro) by clicking on the "Fork" button
     <img src="./assets/Forking_Repo.png" />
-    - Make sure you select your Github account as the owner of the forked repo
+    - Make sure you select your Github account as the owner of the forked repo, then click on "Create Fork"
     <img src="./assets/Forking_Repo2.png" />
+    - You should be able to see that the forked repository is under your Github account
 - Git clone
     - To clone the current lesson repository, run the following command on Terminal:
     ```sh
