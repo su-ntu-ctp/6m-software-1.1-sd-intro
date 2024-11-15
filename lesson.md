@@ -54,26 +54,9 @@ nvm alias default # ensure v18.12.0 is printed
 
 ---
 
-## Part 3 - Installing Git
-
-All software engineers use version control to manage and review project versions and to write code in teams. Version control allows us to track which versions of our code have which features, and to write code in teams while avoiding potential conflicts. Git is the most popular version control system.
-
-Go to the Git downloads [page](https://git-scm.com/downloads) and follow the instructions based on the OS that you have.
-
-Upon successful installation, hitting `git --version` on Terminal should display the version number.
-
-> Learners will go through the full lesson on Git in the next lesson.
-
-It is good for learners to decide on a directory in their macines where they would clone all repositories into. 
-
-Suggestion:
-
-MacOS: `~/sctp`
-Windows: `C:\Users\<your username>\sctp`
-
 ---
 
-## Part 4 - VSCode, Forking, and Cloning Repos
+## Part 3 - VSCode
 
 VSCode is one of the most popular code editors in the world. It offers a robust library of extensions and features to provide developers with an environment not only to write code but to perform tasks related to development.
 
@@ -93,6 +76,30 @@ VSCode is one of the most popular code editors in the world. It offers a robust 
         - We will use [index.js](./src/index.js) as an example after cloning the repo.
         - Right-click the code and choose "Format Document with"
         - Select Prettier
+
+---
+
+## Part 4 - Installing Git, Forking, and Cloning Repos
+
+All software engineers use version control to manage and review project versions and to write code in teams. Version control allows us to track which versions of our code have which features, and to write code in teams while avoiding potential conflicts. Git is the most popular version control system.
+
+### Installation
+
+Go to the Git downloads [page](https://git-scm.com/downloads) and follow the instructions based on the OS that you have.
+ 
+Upon successful installation, hitting `git --version` on Terminal should display the version number.
+
+> Learners will go through the full lesson on Git in the next lesson.
+
+It is good for learners to decide on a directory in their macines where they would clone all repositories into. 
+
+Suggestion:
+
+MacOS: `~/sctp`
+Windows: `C:\Users\<your username>\sctp`
+
+### Forking and Cloning
+
 - Forking the repo (copying a repo)
     - Go to Github, and fork this [directory](https://github.com/su-ntu-ctp/6m-software-1.1-sd-intro) by clicking on the "Fork" button
     <img src="./assets/Forking_Repo.png" />
@@ -113,7 +120,6 @@ VSCode is one of the most popular code editors in the world. It offers a robust 
     cd 6m-software-1.1-sd-intro # change directory to the specified folder
     code . # launch current directory on code
     ```
-
 ---
 
 ## Part 5 - Chrome Developer Tools
