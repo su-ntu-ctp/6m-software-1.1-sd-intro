@@ -2,28 +2,27 @@
 
 ## Operating Systems Requirement for this Program
 
-Learners are expected to use OS versions Windows 10 or MacOS (BigSur) and above. This is to ensure all learners in the class are able to go through installations and configurations without obstacles. All setups, installations and configurations instruction will are written with these OS versions in mind.
+Learners are expected to use OS versions Windows 10 or MacOS (BigSur) and above. This is to ensure all learners in the class are able to go through installations and configurations without obstacles. All setups, installations and configurations instruction are written with these OS versions in mind.
 
-## Browser Requirement for this Program
+## Browser Requirement for this Programme
 
-Learners are expected to use Google Chrome for this program. All debugging and troubleshooting efforts will be done on Chrome's Developer Tool. If learners faced resource issue on their local machine, they can opt for firefox as an alternative. 
+Learners are expected to use Google Chrome for this programme. All debugging and troubleshooting efforts will be done on Chrome's Developer Tool. If the learner faces any resource issues on their local machine, the learner can opt to use Firefox as an alternative browser. 
 
 ## Module 1 Brief
 
-In module 1, learners will be going through the following topics during lesson:
+In Module 1, learners will be going through the following topics during lesson:
 - Software Development Environment
-- Code Version Control with GIT
+- Version Control with GIT
 - Software Testing Methodologies
 - Agile SCRUM
 
-Learners will be learning the following topics in the self studies materials and assignment:
+Learners will be learning the following topics in the self-study materials and assignments:
 - HTML
 - CSS
 - JavaScript
 
-## Dependencies
-
-Refer to the following markdown file for the respective sections of the class:
+## Lesson files
+Each lesson contain files that would be helpful in learning through the programme. You can refer to the following markdown files for the respective sections of each lesson:
 - [Self Studies](./studies.md)
 - [Lesson](./lesson.md)
 - [Assignment](./assignment.md)
@@ -46,7 +45,7 @@ Learners will be able to:
   - Live Server.
   - Live Share
   - Prettier
-- Use Chrome Developer's Tool
+- Use Chrome Developer Tools
 
 ## Lesson Plan
 
