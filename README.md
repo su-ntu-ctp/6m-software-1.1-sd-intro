@@ -64,7 +64,7 @@ Learners will be able to:
 |5 mins|Break||
 ||**2 HR MARK**|
 |20 mins|Part 4 - Install GIT| Only installation is needed.|
-|20 mins|Part 5 - Chrome Developer's T0ol|Guide learners to navgiate around the console, html and css tabs.|
-|20 mins|Part 6 - Self studies briefing|
+|20 mins|Part 5 - Chrome Developer Tools|Guide learners to navgiate around the console, html and css tabs.|
+|20 mins|Part 6 - Self studies and assignment briefing|
 ||**END CLASS 3 HR MARK**|
 
