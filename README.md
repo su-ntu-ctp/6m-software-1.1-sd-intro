@@ -31,9 +31,8 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- What makes a great developer.
 - What is a programming language and why do we need them.
-- The difference between compiler, transpiler and interpreter.
+- The difference between compiler, and interpreter.
 - What is a software development environment.
 
 Learners will be able to:
