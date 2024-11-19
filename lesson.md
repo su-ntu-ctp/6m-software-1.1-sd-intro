@@ -67,6 +67,7 @@ VSCode is one of the most popular code editors in the world. It offers a robust 
         - Be sure to show students there are read-only and write permissible links.
     - Live Server (to host html)
         - Note: This is going to be used in Module 1 only.
+        - We will be doing this after we have forked and cloned the repository
         - In the explorer navigation on the left
             1. expand `src` folder
             1. right-click `index.html`
