@@ -43,7 +43,10 @@ Node Version Manager (NVM), as the name implies, is a tool for managing Node ver
 ### Installation of NVM
 
 - Install NVM in the respective Operating Systems (please see the studies.md file for the installation links).
-- Install node and npm using the `nvm` command.
+
+### Installation of Node
+
+- Install Node using the `nvm` command.
 
 Example:
 ```sh
