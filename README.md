@@ -2,7 +2,7 @@
 
 ## Operating Systems Requirement for this Program
 
-Learners are expected to use OS versions Windows 10 or MacOS (BigSur) and above. This is to ensure all learners in the class are able to go through installations and configurations without obstacles. All setups, installations and configurations instruction are written with these OS versions in mind.
+Learners are expected to use OS versions Windows 10 / 11 or MacOS (Monterey) and above. This is to ensure all learners in the class are able to go through installations and configurations without obstacles. All setups, installations and configurations instruction are written with these OS versions in mind.
 
 ## Browser Requirement for this Programme
 
