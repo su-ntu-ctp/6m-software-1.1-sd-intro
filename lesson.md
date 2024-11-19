@@ -54,9 +54,6 @@ nvm ls-remote # list all versions
 nvm install v18.12.0 # install latest LTS
 nvm alias default # ensure v18.12.0 is printed
 ```
-
----
-
 ---
 
 ## Part 3 - VSCode
