@@ -51,8 +51,8 @@ Node Version Manager (NVM), as the name implies, is a tool for managing Node ver
 Example:
 ```sh
 nvm ls-remote # list all versions
-nvm install v18.12.0 # install latest LTS
-nvm alias default # ensure v18.12.0 is printed
+nvm install v18.18.0 # install latest LTS
+nvm alias default # ensure v18.18.0 is printed
 ```
 ---
 
